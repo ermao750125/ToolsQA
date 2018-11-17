@@ -1,0 +1,7 @@
+<suite name="Suite One" >
+ <test name="Test One" >
+  <classes>
+   <class name="seleniumEasy.SelEasyMTNGGIT.TestNGExample" />
+  </classes>
+ </test>
+</suite>
